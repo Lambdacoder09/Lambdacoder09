@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Mern+Developer+Trainee;Lnux+specialist)](https://git.io/typing-svg)
+
+
 - 👋 Hi, I’m @Lambdacoder09
 - 👀 I’m interested in making friends ...
 - 🌱 I’m currently learning C  programing ...
