@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&lines=Full+Stack+MERN+Developer;Linux Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&lines=Full+stack+Mern+Developer+Trainee;Linux+specialist)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m **Zayed Khan (@Lambdacoder09)**
 - 👀 I’m passionate about **Full Stack Development (MERN)** and **Linux**
