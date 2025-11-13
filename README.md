@@ -5,4 +5,4 @@
 - 💞️ I’m open to collaborate on **web development projects** and **open-source contributions**
 - 📫 Reach me at: **zayedkhan.dev@gmail.com**  
   Discord: **zayedkhan256**
-- 💻 Check out my projects and portfolio: [Your Portfolio Link](https://zayed-khan-portfolio-website.netlify.app/)
+- 💻 Check out my projects and portfolio: [Portfolio Link](https://zayed-khan-portfolio-website.netlify.app/)
