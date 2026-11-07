@@ -8,6 +8,7 @@
 <p align="center">
   <a href="mailto:zayedkhan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-zayedkhan.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-zayedkhan256-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://zayedkhan-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-zayedkhan.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/Lambdacoder09"><img src="https://img.shields.io/badge/GitHub-Lambdacoder09-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
